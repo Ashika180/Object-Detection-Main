@@ -1,0 +1,46 @@
+body{
+    background-image: url('bg1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#back5{
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.note{
+    margin-top: 0px;
+    font-family: comic sans ms;
+    font-size: 16px;
+}
+
+.obj{
+    font-size: 30px;
+    font-family: 'Girassol', cursive;
+    margin-left: 10%;
+}
+
+#status{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+#room_pic{
+    width: 700px;
+}
+
+canvas{
+    box-shadow: 5px 5px 18px white;
+    border: ridge 3px orange;
+}
+
+#note{
+    font-size: 16px;
+    font-family: 'Merriweather', serif;
+}

@@ -1,0 +1,63 @@
+body{
+    background: linear-gradient(to top, rgb(99, 99, 105), rgb(16, 16, 26));
+}
+
+.h3{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+    width: 22%;
+}
+
+.note{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.footer{
+    position: fixed;
+    color: grey;
+    background: rgb(255, 255, 255);
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Special Elite', cursive;
+    font-size: 20px;
+}
+
+.options{
+    text-decoration: none !important;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    background-color: pink;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-weight: bold;
+}
+
+.options:hover{
+    background-color: rgb(113, 0, 128);
+    color: gold; 
+}
+
+.option{
+    width: 325px;
+    height: 440px !important;
+    padding: 20px;
+ }
+
+ #main{
+     background-color: teal;
+     color: white;
+     padding: 5px;
+     width: 450px;
+     border-radius: 5px;
+     font-family: comic sans ms;
+     font-size: 20px !important;
+ }
+
+
